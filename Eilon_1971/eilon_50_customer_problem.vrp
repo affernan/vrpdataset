@@ -1,6 +1,6 @@
 Demand of all customers = 1 unit,
 Cost of transport a = 1 per unit weight and per unit distance.
-#	x		  y
+#	x		y
 1	1.33	8.89
 2	1.89	0.77
 3	9.27	1.49
