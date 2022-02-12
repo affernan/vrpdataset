@@ -1,10 +1,10 @@
-Instance: E016-03m.dat
+Instance: E016-05m.dat
 Class:  1
    15 --- number of customers (no depot)
-    3 --- number of vehicles
+    5 --- number of vehicles
    15 --- number of items
 Capacity - height - width of vehicles
-    90     40     20
+    55     40     20
 Node - x - y - demand
     0    30.0    40.0     0.0
     1    37.0    52.0     7.0
