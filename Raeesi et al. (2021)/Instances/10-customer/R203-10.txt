@@ -1,0 +1,27 @@
+   ID  Type     x     y demand ReadyTime DueDate ServiceTime 
+    0     0    35    35      0         0    1000           0 
+    1     1    11    31      7       436     511          10 
+    2     1    20    65     12       206     325          10 
+    3     1    32    12      7         0     966          10 
+    4     1    61    52      3       384     499          10 
+    5     1    37    47      6       162     293          10 
+    6     1    15    30     26         0     969          10 
+    7     1    12    24     13         0     964          10 
+    8     1    49    11     18         0     962          10 
+    9     1    57    68     15         0     950          10 
+   10     1     5    30      2       733     870          10 
+   11     2    35    35      0         0    1000           0 
+   12     2    59    67      0         0    1000           0 
+   13     2    20    61      0         0    1000           0 
+   14     2    15    42      0         0    1000           0 
+   15     2    21    22      0         0    1000           0 
+
+ECV fuel tank capacity /60.63/
+BSV fuel tank capacity /121.26/
+ECV load capacity /1000/
+BSV load capacity /5/
+ECV consumption rate /1/
+BSV consumption rate /1/
+ECV inverse refueling rate /1.47/
+Swapping service time /3.00/
+Velocity /1/
