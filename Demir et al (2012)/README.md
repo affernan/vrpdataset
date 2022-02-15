@@ -1,4 +1,4 @@
-Original Source: http://www.apollo.management.soton.ac.uk/prplib.htm
+Source: http://www.apollo.management.soton.ac.uk/prplib.htm
 
 This library contains nine different groups of instances of the Pollution-Routing Problem (PRP). Each group consists of 20 instances.
 
