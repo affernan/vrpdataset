@@ -6,9 +6,9 @@ The .txt files contain 180 instances for the two-dimensional Capacitated Vehicle
 ---------------------------------------------
 Instance: ***
 Class: ***
-   *** --- number of customers (no depot)
-   *** --- number of vehicles
-   *** --- number of items
+   ***  number of customers (no depot)
+   ***  number of vehicles
+   ***  number of items
 Capacity - height - width of vehicles
    ***    ***    ***
 Node - x - y - demand
