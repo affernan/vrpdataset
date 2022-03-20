@@ -1,0 +1,27 @@
+proute input file v1;
+#Set2_E-n22-k4-s11-12.dat
+ID;x;y;demand;type
+Depot;145;215;0;depot
+S1;128;231;0;satellite
+S2;156;217;0;satellite
+C1;151;264;1100;customer
+C2;159;261;700;customer
+C3;130;254;800;customer
+C4;128;252;1400;customer
+C5;163;247;2100;customer
+C6;146;246;400;customer
+C7;161;242;800;customer
+C8;142;239;100;customer
+C9;163;236;500;customer
+C10;148;232;600;customer
+C11;128;231;1200;customer
+C12;156;217;1300;customer
+C13;129;214;1300;customer
+C14;146;208;300;customer
+C15;164;208;900;customer
+C16;141;206;2100;customer
+C17;147;193;1000;customer
+C18;164;193;900;customer
+C19;129;189;2500;customer
+C20;155;185;1800;customer
+C21;139;182;700;customer
